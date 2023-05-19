@@ -1,6 +1,6 @@
 # Transform Translator
 
-> this app is a 'Fork' for standard example for `transformer.js`
+> this app is a 'Fork' for standard example for [`transformer.js`](https://github.com/xenova/transformers.js)
 
 ## Usage
 
